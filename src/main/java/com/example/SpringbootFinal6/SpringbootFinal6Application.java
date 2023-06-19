@@ -18,5 +18,6 @@ public class SpringbootFinal6Application extends SpringBootServletInitializer {
 	SpringApplication.run(SpringbootFinal6Application.class, args);  
 		System.out.println("????????");
 		System.out.println("111111");
+		System.out.println("111111");
 	}  
 	}  
